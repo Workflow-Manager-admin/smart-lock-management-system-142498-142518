@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-lock-management-system-142498-142518/smart_lock_frontend"
+}
